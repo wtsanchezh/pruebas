@@ -31,6 +31,8 @@ label {
 input {
     margin-top: 0.3em;
     border-radius: 4px;
+    padding: 0.4em;
+    border:0.1em solid #2985AD;
 }
 
 button {
